@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Roblox_Studio",
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:create.roblox.com)",
+      "WebFetch(domain:devforum.roblox.com)",
+      "WebFetch(domain:about.roblox.com)"
+    ],
+    "additionalDirectories": [
+      "~/.claude/skills/roblox-master"
+    ]
+  }
+}

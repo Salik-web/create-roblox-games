@@ -1,0 +1,12 @@
+# Place files and personal game data never go in this repo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+project-template/roblox-games/games/*/
+!project-template/roblox-games/games/INDEX.md
+.history/
+.env
+.claude/settings.local.json
+.DS_Store
+Thumbs.db
